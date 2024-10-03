@@ -1,4 +1,4 @@
-![logo](https://github.com/ratul-roy312/Ratul-Roy312/blob/main/1.png)
+![logo](https://github.com/ratul-roy312/Ratul-Roy312/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art.png)
 <h1 align= "center"> Hi 👋, I'm Ratul Kanti Roy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
